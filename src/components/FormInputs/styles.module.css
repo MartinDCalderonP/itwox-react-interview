@@ -1,0 +1,14 @@
+.input {
+  width: 90%;
+  padding: 5px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: -5px;
+}

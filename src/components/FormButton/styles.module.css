@@ -1,0 +1,30 @@
+.formButton {
+  width: 90%;
+  padding: 5px;
+  margin: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  border-color: blue;
+  font-size: 1.2rem;
+}
+
+.formButton:hover {
+  background-color: white;
+  color: blue;
+  border-color: blue;
+}
+
+.formButton:active {
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
+
+.formButton:disabled {
+  background-color: #ccc;
+  color: #666;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
