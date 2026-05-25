@@ -52,5 +52,5 @@
     "eslint": "^8.57.1",
     "eslint-plugin-react": "^7.32.2"
   },
-  "packageManager": "pnpm@10.32.1"
+  "packageManager": "pnpm@11.3.0"
 }
