@@ -1,5 +1,5 @@
 allowBuilds:
-  msw: set this to true or false
+  msw: true
 minimumReleaseAgeExclude:
   - nth-check@2.0.1
   - cookie@0.7.0
